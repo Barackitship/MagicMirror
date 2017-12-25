@@ -75,7 +75,7 @@ var config = {
 			module: "compliments",
 			position: "bottom_center"
 			config: {
-				updateInterval: '120000',
+				updateInterval: 120000,
 			}
 		},
 	]

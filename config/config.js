@@ -73,7 +73,10 @@ var config = {
 		},
 		{
 			module: "compliments",
-			position: "bottom_bar"
+			position: "bottom_center"
+			config: {
+				updateInterval: '120000',
+			}
 		},
 	]
 

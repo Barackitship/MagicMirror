@@ -39,7 +39,7 @@ var config = {
 		},
 		{
 			module: "currentweather",
-			position: "top_right",
+			position: "bottom_right",
 			config: {
 				location: "Greater Sudbury",
 				locationID: "5964700",  //ID from http://www.openweathermap.org/help/city_list.txt

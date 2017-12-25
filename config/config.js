@@ -74,6 +74,42 @@ var config = {
 		{
 			module: "compliments",
 			position: "bottom_bar"
+			config: {
+				updateInterval: 120000,
+				compliments: {
+					anytime: [
+						"Don't pick!",
+						"You look great :-)",
+						"Dayum!",
+						"Nice face!",
+						"Your skin looks fine, leave it alone!"
+					],
+					morning: [
+						"Good morning!",
+						"Good morning grape raisins!",
+						"Good morning orange oranges!",
+						"Have a great day!",
+						"How was your sleep?",
+						"Don't forget your headphones!",
+						"Go get em tiger!",
+						"You'll do great today!"
+					],
+					afternoon: [
+						"Hello, beautiful!",
+						"You look sexy!",
+						"Looking good today!",
+						"You're doing great!"
+					],
+					evening: [
+						"Wow, you look hot!",
+						"You look nice!",
+						"Hi, sexy!",
+						"Hey great personality!",
+						"Hope you had a super day!",
+						"Very pretty!"
+					]
+				}
+			}
 		},
 	]
 

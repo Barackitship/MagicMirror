@@ -61,7 +61,7 @@ var config = {
 			position: "bottom_right",
 			header: "Phone Notifications",
 			config: {
-				accessToken: 'o.GhggsjwP0XLSDaNLGAvPnhRNlkYUnfoG',
+				accessToken: "o.hDUEQm9SxLtjMGjg4AIRTEROO3I9XSwq",
 				numberOfNotifications: 5,
 				displayNotificationIcon: true,
 				displayMessage: true,
@@ -73,7 +73,7 @@ var config = {
 		},
 		{
 			module: "compliments",
-			position: "bottom_bar"
+			position: "bottom_bar",
 			config: {
 				updateInterval: 120000,
 				compliments: {
@@ -88,6 +88,7 @@ var config = {
 						"Good morning!",
 						"Good morning grape raisins!",
 						"Good morning orange oranges!",
+						"Good morning strawberry fraises!",
 						"Have a great day!",
 						"How was your sleep?",
 						"Don't forget your headphones!",
@@ -110,9 +111,8 @@ var config = {
 					]
 				}
 			}
-		},
+		}
 	]
-
 };
 
 /*************** DO NOT EDIT THE LINE BELOW ***************/
